@@ -70,9 +70,9 @@ Actualmente desarrollando proyectos reales para clientes y construyendo una marc
 
 #### 2. 💻 Sitio Web completo (landing page + backoffice administrativo)
 
-**➡️ [Verdulería La luna 🌙 (Full Stack)](https://github.com/SanTaClouse/VerdLuna-frontend)**
+**➡️ [Verdulería La luna 🌙 (Full Stack)](https://laluna123.vercel.app/)**
 
-**Descripción:** Sitio web completo para una cadena de verdulerías de Maciel, Santa Fe, Santa Fe, Argentina. Este es el repositorio del Frontend desarrollado con React + Vite para la presencia digital y el sistema administrativo interno de Verdulería La Luna.
+**Descripción:** Sitio web completo para una cadena de verdulerías de Maciel, Santa Fe, Argentina. Este es el repositorio del deploy desarrollado con React + Vite para la presencia digital y el sistema administrativo interno de Verdulería La Luna.
 
 <p align="center">
   <p>Tecnologias</p>
